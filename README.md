@@ -1,7 +1,9 @@
 # find-fibonacci
 This repository contains the Python script(find_fibonacci.py) for finding Fibonacci series up to 'n'. And the corresponding test script(test_fibonacci.py) for unit testing the Fibonacci script
 
-## Prerequisite to run the script
+## 1. Execute the Fibonacci program:
+
+## Prerequisite
 * Python
 * Git Client
 
@@ -11,7 +13,7 @@ git clone https://github.com/jyothish-git/find-fibonacci.git
 cd find-fibonacci
 python find_fibonacci.py
 ```
-# Execute Unit test case for the program
+## 2. Execute unit test case for the program:
 
 ## Prerequisite
 * pytest (pip install pytest)
