@@ -1,7 +1,7 @@
 actual = [0,1]
 
 def find_fibonacci(limit):
-    for i in range(3,limit+1):
+    for i in range(3,int(limit)+1):
         length = len(actual)
         second_last_number = length - 2
         actual.append(actual[-1] + actual[second_last_number])
