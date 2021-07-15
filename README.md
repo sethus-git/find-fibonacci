@@ -4,7 +4,7 @@ This repository contains the Python script(find_fibonacci.py) for finding Fibona
 ## 1. Execute the Fibonacci program:
 
 ## Prerequisite
-* Python
+* Python (Either Python 2 or Python 3 version)
 * Git Client
 
 ## Run the script:
